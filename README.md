@@ -19,7 +19,7 @@ app to make it look as presentable as possible when using Bootstrap.
 
 ## Bootstrap Components (Deliverable 3)
 Background Color, Text Color, and Font/Line Width(Jumbotron Customization)
-
+![image](https://user-images.githubusercontent.com/8845050/174422834-4285d7e6-5ae4-4dea-b609-4ff3ba345c17.png)
 
 ![Scraped](https://user-images.githubusercontent.com/8845050/174422748-71996271-2910-47f5-a556-29468ff55679.PNG)
 
