@@ -18,6 +18,12 @@ app to make it look as presentable as possible when using Bootstrap.
 ![HEMI2](https://user-images.githubusercontent.com/8845050/174422619-926e7cdd-b76e-484a-870b-99a313dcafcb.PNG)
 
 ## Bootstrap Components (Deliverable 3)
-![HEMI1](https://user-images.githubusercontent.com/8845050/174422332-3b2b7f40-b9a1-4ea8-9f55-67b32c2e9552.PNG)
+Background Color, Text Color, and Font/Line Width(Jumbotron Customization)
 
-![HEMI2](https://user-images.githubusercontent.com/8845050/174422333-559f1afa-4590-4819-866d-f3235da7f0e5.PNG)
+
+![Scraped](https://user-images.githubusercontent.com/8845050/174422748-71996271-2910-47f5-a556-29468ff55679.PNG)
+
+![SCRAPE1](https://user-images.githubusercontent.com/8845050/174422750-4a965947-9424-435f-9d06-8fbba2686c08.PNG)
+
+### MongoDB Database "mars_app" 
+![mars_app](https://user-images.githubusercontent.com/8845050/174422755-dcfe5f0e-e3ec-42ca-b282-4f7542734991.PNG)
