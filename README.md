@@ -27,3 +27,11 @@ Background Color, Text Color, and Font/Line Width(Jumbotron Customization)
 
 ### MongoDB Database "mars_app" 
 ![mars_app](https://user-images.githubusercontent.com/8845050/174422755-dcfe5f0e-e3ec-42ca-b282-4f7542734991.PNG)
+
+#Resources
+  Jupyter Notebook
+  Python
+  MongoDB
+  Visual Studio Code
+  Flask App
+  
